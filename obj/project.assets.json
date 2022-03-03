@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Irfan\\Desktop\\cusf\\cusf-export-mass\\exportlib\\exportlib.csproj",
-      "projectName": "exportlib",
-      "projectPath": "C:\\Users\\Irfan\\Desktop\\cusf\\cusf-export-mass\\exportlib\\exportlib.csproj",
+      "projectUniqueName": "C:\\Users\\Irfan\\Desktop\\cusf\\cusf-export-mass\\AddBodiesMassPropertyCSharp.csproj",
+      "projectName": "AddBodiesMassPropertyCSharp",
+      "projectPath": "C:\\Users\\Irfan\\Desktop\\cusf\\cusf-export-mass\\AddBodiesMassPropertyCSharp.csproj",
       "packagesPath": "C:\\Users\\Irfan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Irfan\\Desktop\\cusf\\cusf-export-mass\\exportlib\\obj\\",
+      "outputPath": "C:\\Users\\Irfan\\Desktop\\cusf\\cusf-export-mass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Irfan\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,5 @@
+C:\Users\Irfan\Desktop\cusf\cusf-export-mass\obj\Debug\net5.0\AddBodiesMassPropertyCSharp.csproj.AssemblyReference.cache
+C:\Users\Irfan\Desktop\cusf\cusf-export-mass\obj\Debug\net5.0\AddBodiesMassPropertyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irfan\Desktop\cusf\cusf-export-mass\obj\Debug\net5.0\AddBodiesMassPropertyCSharp.AssemblyInfoInputs.cache
+C:\Users\Irfan\Desktop\cusf\cusf-export-mass\obj\Debug\net5.0\AddBodiesMassPropertyCSharp.AssemblyInfo.cs
+C:\Users\Irfan\Desktop\cusf\cusf-export-mass\obj\Debug\net5.0\AddBodiesMassPropertyCSharp.csproj.CoreCompileInputs.cache
