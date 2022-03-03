@@ -37,6 +37,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "SolidWorks.Interop.sldworks.dll": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "SolidWorks.Interop.swconst.dll": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
