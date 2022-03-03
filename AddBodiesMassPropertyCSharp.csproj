@@ -1,5 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+   <PackageReference Include="SolidWorks.Interop.sldworks.dll" />
+  </ItemGroup>
+
+  <ItemGroup>
+   <PackageReference Include="SolidWorks.Interop.swconst.dll" />
+  </ItemGroup>
+
+
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
