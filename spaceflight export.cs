@@ -25,7 +25,7 @@ namespace AddBodiesMassPropertyCSharp.csproj
             int errors = 0;
             int warnings = 0;
 
-            swModelDoc2 = (ModelDoc2)swApp.OpenDoc6("C:\\cued-fs\users\General\rdf33\windows-home\Downloads\v7 - Entire Assembly-20220227T111712Z-001.zip\v7 - Entire Assembly\WHITE_DWARF.SLDASM", (int)swDocumentTypes_e.swDocASSEMBLY, (int)swOpenDocOptions_e.swOpenDocOptions_Silent, "", ref errors, ref warnings);
+            swModelDoc2 = (ModelDoc2)swApp.OpenDoc6("C://Users/Irfan/Desktop/cusf/v8 - Entire Assembly", (int)swDocumentTypes_e.swDocASSEMBLY, (int)swOpenDocOptions_e.swOpenDocOptions_Silent, "", ref errors, ref warnings);
 
             swModel = (ModelDoc2)swApp.OpenDoc6(assemblyFile, (int)swDocumentTypes_e.swDocASSEMBLY, (int)swOpenDocOptions_e.swOpenDocOptions_Silent, "", ref errors, ref warnings);
             swModelDocExt = (ModelDocExtension)swModel.Extension;
