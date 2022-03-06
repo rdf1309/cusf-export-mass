@@ -1,11 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-   <PackageReference Include="SolidWorks.Interop.sldworks.dll" />
+    <!-- ... -->
+    <PackageReference Include="SolidWorks.Interop.sldworks.dll" />
+    <!-- ... -->
   </ItemGroup>
 
   <ItemGroup>
-   <PackageReference Include="SolidWorks.Interop.swconst.dll" />
+    <!-- ... -->
+    <PackageReference Include="SolidWorks.Interop.swconst.dll" />
+    <!-- ... -->
   </ItemGroup>
 
 
